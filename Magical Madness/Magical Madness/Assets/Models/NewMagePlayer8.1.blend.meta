@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: b5a2a0d496ce629449b5a37d44b5a4e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Fingers01_L
+    100004: Fingers01_R
+    100006: Fingers02_L
+    100008: Fingers02_R
+    100010: Hand_L
+    100012: Hand_R
+    100014: Head
+    100016: Hips
+    100018: Lower_Arm_L
+    100020: Lower_Arm_R_001
+    100022: Neck
+    100024: //RootNode
+    100026: Shoulder_L
+    100028: Shoulder_R
+    100030: Spine
+    100032: Thumb01_L
+    100034: Thumb01_R
+    100036: Thumb02_L
+    100038: Thumb02_R
+    100040: Upper_Arm_L
+    100042: Upper_Arm_R
+    100044: "\u0421\u043A\u0435\u043B\u0435\u0442"
+    100046: "\u042F\u0437\u044B\u043A"
+    100048: "\u0422\u0435\u043B\u043E"
+    400000: Chest
+    400002: Fingers01_L
+    400004: Fingers01_R
+    400006: Fingers02_L
+    400008: Fingers02_R
+    400010: Hand_L
+    400012: Hand_R
+    400014: Head
+    400016: Hips
+    400018: Lower_Arm_L
+    400020: Lower_Arm_R_001
+    400022: Neck
+    400024: //RootNode
+    400026: Shoulder_L
+    400028: Shoulder_R
+    400030: Spine
+    400032: Thumb01_L
+    400034: Thumb01_R
+    400036: Thumb02_L
+    400038: Thumb02_R
+    400040: Upper_Arm_L
+    400042: Upper_Arm_R
+    400044: "\u0421\u043A\u0435\u043B\u0435\u0442"
+    400046: "\u042F\u0437\u044B\u043A"
+    400048: "\u0422\u0435\u043B\u043E"
+    2100000: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_004__MagePlayerTexture"
+    2100002: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B__MagePlayerTexture"
+    2100004: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_001__MagePlayerTexture"
+    2100006: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_002__MagePlayerTexture"
+    2100008: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_005__MagePlayerTexture"
+    2100010: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_009__MagePlayerTexture"
+    2100012: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_003__MagePlayerTexture"
+    2100014: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_007__MagePlayerTexture"
+    2100016: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_008__MagePlayerTexture"
+    2100018: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_006__MagePlayerTexture"
+    2100020: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_011__MagePlayerTexture"
+    2100022: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_010__MagePlayerTexture"
+    2300000: "\u042F\u0437\u044B\u043A"
+    3300000: "\u042F\u0437\u044B\u043A"
+    4300000: "\u042F\u0437\u044B\u043A"
+    4300002: "\u0422\u0435\u043B\u043E"
+    7400000: Default Take
+    7400002: Idle
+    7400004: "\u0421\u043A\u0435\u043B\u0435\u0442Action"
+    9500000: //RootNode
+    13700000: "\u042F\u0437\u044B\u043A"
+    13700002: "\u0422\u0435\u043B\u043E"
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_001__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_002__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_003__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_004__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_005__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_006__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_007__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_008__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_009__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_010__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_011__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B__MagePlayerTexture"
+    second: {fileID: 2100000, guid: be6d0c9993ba358419fde62561a4c451, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: NewMagePlayer8.1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u042F\u0437\u044B\u043A"
+      parentName: NewMagePlayer8.1(Clone)
+      position: {x: -0, y: -0.35, z: 0.8805331}
+      rotation: {x: 0.31985113, y: -0.31985107, z: 0.63063085, w: 0.63063085}
+      scale: {x: 0.11112069, y: 0.069605194, z: 0.26726508}
+    - name: "\u0421\u043A\u0435\u043B\u0435\u0442"
+      parentName: NewMagePlayer8.1(Clone)
+      position: {x: -0, y: 0.07963033, z: -0.000000003480752}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: "\u0421\u043A\u0435\u043B\u0435\u0442"
+      position: {x: -0, y: 0.19593625, z: 0.14429133}
+      rotation: {x: 0.4686452, y: 0.4686451, z: -0.52950144, w: 0.52950144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0.23040241, y: 0.000000017394896, z: 0.000000007450581}
+      rotation: {x: -0.00000003258933, y: 0.060856283, z: -0.0000000022670692, w: 0.99814653}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: -0.16464923, y: 0.000000012430671, z: -0.000000004005703}
+      rotation: {x: 0.000000033570096, y: 0.05040752, z: -0.0000000015022592, w: 0.99872875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Chest
+      position: {x: -0.21622176, y: 0.00000001632429, z: -0.000000007450581}
+      rotation: {x: 0.000000005632414, y: -0.07303009, z: 0.0000000051691074, w: 0.9973297}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0.11689507, y: 0.000000008825339, z: 0}
+      rotation: {x: -0.00000017699314, y: 0.42905375, z: 0.00000006429369, w: 0.903279}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_L
+      parentName: Chest
+      position: {x: -0.32388997, y: -0.5531746, z: 0.0017162816}
+      rotation: {x: 0.018002357, y: -0.07094753, z: 0.81542164, w: 0.57422125}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Upper_Arm_L
+      parentName: Shoulder_L
+      position: {x: -0.14349023, y: 0.000000036110112, z: -0.000000011175871}
+      rotation: {x: -0.0028149933, y: 0.13581224, z: 0.43569764, w: 0.8897835}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Lower_Arm_L
+      parentName: Upper_Arm_L
+      position: {x: -0.1904464, y: -0.000000018699176, z: 0.000000011175871}
+      rotation: {x: -0.036662463, y: 0.16733569, z: 0.108032696, w: 0.9792771}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Hand_L
+      parentName: Lower_Arm_L
+      position: {x: -0.2407221, y: -0.000000011458779, z: -0.000000007450581}
+      rotation: {x: -0.6728167, y: 0.27125588, z: 0.45275116, w: 0.5184152}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Fingers01_L
+      parentName: Hand_L
+      position: {x: -0.15301585, y: -0.00000002620784, z: -0.000000019557774}
+      rotation: {x: 0.09849838, y: -0.05718982, z: -0.016681232, w: 0.99335253}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Fingers02_L
+      parentName: Fingers01_L
+      position: {x: -0.16780487, y: 0.00000001975421, z: -0.000000020023435}
+      rotation: {x: 0.0032923794, y: -0.09906978, z: -0.0011074735, w: 0.99507445}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Thumb01_L
+      parentName: Lower_Arm_L
+      position: {x: -0.204456, y: -0.011091843, z: 0.07568284}
+      rotation: {x: -0.24515586, y: -0.007870421, z: 0.9689558, w: 0.031004475}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Thumb02_L
+      parentName: Thumb01_L
+      position: {x: -0.072619244, y: 0.000000029524609, z: 3.0559e-10}
+      rotation: {x: 0.0029302158, y: 0.087861, z: -0.033505633, w: 0.9955648}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Shoulder_R
+      parentName: Chest
+      position: {x: -0.3238899, y: 0.5549933, z: 0.0017162454}
+      rotation: {x: -0.018002447, y: -0.0709476, z: -0.81542164, w: 0.57422113}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Upper_Arm_R
+      parentName: Shoulder_R
+      position: {x: -0.14349025, y: -0.000000084731525, z: -0.000000022351742}
+      rotation: {x: 0.0028149833, y: 0.13581231, z: -0.43569767, w: 0.8897835}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Lower_Arm_R_001
+      parentName: Upper_Arm_R
+      position: {x: -0.1904463, y: 0.000000006486037, z: -0.000000014901161}
+      rotation: {x: 0.03666252, y: 0.1673357, z: -0.10803263, w: 0.9792771}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Hand_R
+      parentName: Lower_Arm_R_001
+      position: {x: -0.24072209, y: 0.000000016267133, z: -0.000000011175871}
+      rotation: {x: 0.6728164, y: 0.27125603, z: -0.45275095, w: 0.5184157}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Fingers01_R
+      parentName: Hand_R
+      position: {x: -0.15301587, y: 0.000000038591878, z: 0.000000020489097}
+      rotation: {x: -0.09849765, y: -0.057189785, z: 0.01668111, w: 0.9933526}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Fingers02_R
+      parentName: Fingers01_R
+      position: {x: -0.1678049, y: 0.000000033433942, z: -0.000000037252903}
+      rotation: {x: -0.0032923874, y: -0.099069744, z: 0.0011074668, w: 0.99507445}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Thumb01_R
+      parentName: Lower_Arm_R_001
+      position: {x: -0.20445605, y: 0.011091793, z: 0.075682804}
+      rotation: {x: -0.2451559, y: 0.007870529, z: 0.9689558, w: -0.031004325}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Thumb02_R
+      parentName: Thumb01_R
+      position: {x: -0.072619185, y: -0.000000030009826, z: 0.000000002197339}
+      rotation: {x: -0.0029302211, y: 0.08786103, z: 0.03350569, w: 0.9955648}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
